@@ -1,0 +1,2 @@
+Maximum clique size: 3
+Vertices in maximum clique: 0 1 2
